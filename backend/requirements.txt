@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-jwt-extended
+supabase
+python-dotenv
+bcrypt
+groq
+reportlab
+qrcode[pil]
