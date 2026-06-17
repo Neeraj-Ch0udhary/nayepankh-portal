@@ -7,3 +7,4 @@ bcrypt
 groq
 reportlab
 qrcode[pil]
+gunicorn
